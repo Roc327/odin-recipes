@@ -1,0 +1,102 @@
+* {
+    background-color: #3A3B3C;
+    text-align: center;
+}
+
+.title {
+    color: bisque;
+    font-family: "Noto Serif", Georgia, serif;
+    font-size: 48px;
+    text-align: center;
+    border-radius: 15px;
+    background: #36454F;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    width: 400px;
+    height: auto;
+}
+
+.d_header {
+    color: bisque;
+    font-family: "Noto Serif", Georgia, serif;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 15px;
+    background: #36454F;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    width: 400px;
+    height: auto;
+}
+
+#main_img {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+
+.site_img {
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a, a:visited {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    font-family: 'DejaVu Sans', 'Noto Sans', Tahoma, 
+                 'Times New Roman', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #E5E4E2;
+}
+
+.rcorners {
+    border-radius: 25px;
+    background: #36454F;
+    padding: 10px;
+    width: auto;
+    height: auto;
+}
+
+h4 {
+    color: #FAFAD2;
+    font-family: 'DejaVu Sans', 'Noto Sans', Tahoma, 
+                 'Times New Roman', sans-serif;
+}
+
+.lists {
+    color: #98AFC7;
+    list-style: none;
+    font-style: italic;
+    font-size: 15px;
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol.lists {
+    list-style: decimal;
+}
+
+.description {
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    color: beige;
+    font-family: 'DejaVu Sans', 'Noto Sans', Tahoma, 
+                 'Times New Roman', sans-serif;
+}
+ 
