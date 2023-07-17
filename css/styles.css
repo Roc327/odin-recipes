@@ -1,6 +1,5 @@
 * {
     background-color: #3A3B3C;
-    text-align: center;
 }
 
 .title {
@@ -41,6 +40,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2em;
+    display: block;
 }
 
 .site_img {
@@ -48,12 +48,14 @@
     height: auto;
     margin-left: auto;
     margin-right: auto;
+    display: block;
 }
 
 #link_list {
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 a, a:visited {
@@ -81,6 +83,7 @@ h4 {
     color: #FAFAD2;
     font-family: 'DejaVu Sans', 'Noto Sans', Tahoma, 
                  'Times New Roman', sans-serif;
+    text-align: center;
 }
 
 .lists {
@@ -91,10 +94,12 @@ h4 {
     max-width: 50em;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 ol.lists {
     list-style: decimal;
+    text-align: left;
 }
 
 .description {
@@ -104,5 +109,6 @@ ol.lists {
     color: beige;
     font-family: 'DejaVu Sans', 'Noto Sans', Tahoma, 
                  'Times New Roman', sans-serif;
+    text-align: center;
 }
  
