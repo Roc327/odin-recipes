@@ -50,6 +50,12 @@
     margin-right: auto;
 }
 
+#link_list {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 a, a:visited {
     margin-left: 20px;
     margin-right: 20px;
